@@ -1,0 +1,24 @@
+{
+  "name": "LocusPlaza",
+  "identifier": "com.locus.plaza.altstore",
+  "subtitle": "LocusPlaza builds for AltStore",
+  "description": "Test builds of LocusPlaza, published automatically from release tags.",
+  "iconURL": "https://raw.githubusercontent.com/WaveShaperFoundation/LocusPlazaAltStore/main/icon.png",
+  "website": "https://github.com/WaveShaperFoundation/LocusPlazaAltStore",
+  "tintColor": "#3B82F6",
+  "apps": [
+    {
+      "name": "LocusPlaza",
+      "bundleIdentifier": "com.locus.plaza",
+      "developerName": "WaveShaper Foundation",
+      "subtitle": "Location-aware social app",
+      "localizedDescription": "LocusPlaza is a location-aware social app: feed, chats, calls, circles, events and a friends map.\n\nSideloaded builds are signed with your own Apple ID, so push notifications, Associated Domains and other paid-account capabilities are unavailable.",
+      "iconURL": "https://raw.githubusercontent.com/WaveShaperFoundation/LocusPlazaAltStore/main/icon.png",
+      "tintColor": "#3B82F6",
+      "category": "social",
+      "screenshots": [],
+      "versions": []
+    }
+  ],
+  "news": []
+}
