@@ -17,7 +17,16 @@
       "tintColor": "#3B82F6",
       "category": "social",
       "screenshots": [],
-      "versions": []
+      "versions": [
+        {
+          "version": "0.6.4",
+          "buildVersion": "1",
+          "date": "2026-11-07T19:53:59Z",
+          "downloadURL": "https://github.com/WaveShaperFoundation/LocusPlazaAltStore/releases/download/v0.6.4/LocusPlaza-0.6.4.ipa",
+          "size": 30622916,
+          "minOSVersion": "26.0"
+        }
+      ]
     }
   ],
   "news": []
