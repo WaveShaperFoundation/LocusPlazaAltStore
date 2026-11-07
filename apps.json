@@ -19,6 +19,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.6.6-bugfix",
+          "buildVersion": "1",
+          "date": "2026-11-07T21:06:02Z",
+          "downloadURL": "https://github.com/WaveShaperFoundation/LocusPlazaAltStore/releases/download/v0.6.6-bugfix/LocusPlaza-0.6.6-bugfix.ipa",
+          "size": 30627257,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "0.6.5",
           "buildVersion": "1",
           "date": "2026-11-07T20:18:40Z",
