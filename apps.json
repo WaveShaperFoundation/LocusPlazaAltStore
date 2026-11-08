@@ -19,6 +19,14 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.7.0",
+          "buildVersion": "1",
+          "date": "2026-11-08T10:02:01Z",
+          "downloadURL": "https://github.com/WaveShaperFoundation/LocusPlazaAltStore/releases/download/v0.7.0/LocusPlaza-0.7.0.ipa",
+          "size": 30627246,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "0.6.9",
           "buildVersion": "1",
           "date": "2026-11-08T09:21:05Z",
